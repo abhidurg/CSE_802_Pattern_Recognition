@@ -1,0 +1,576 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.29)  2 FEB 2020 18:18
+entering extended mode
+**C:/Users/abhir/Documents/CSE_GRAD/CSE_802_Pattern_Recognition/hw1/cse802hw1.t
+ex
+
+(C:/Users/abhir/Documents/CSE_GRAD/CSE_802_Pattern_Recognition/hw1/cse802hw1.te
+x
+LaTeX2e <2019-10-01> patch level 3
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/microtype\microtype.sty"
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\MT@toks=\toks15
+\MT@count=\count88
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen103
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count89
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/microtype\microtype-pdftex.def"
+File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
+\MT@outer@space=\skip43
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/microtype\microtype.cfg"
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/wrapfig\wrapfig.sty"
+\wrapoverhang=\dimen106
+\WF@size=\dimen107
+\c@WF@wrappedlines=\count90
+\WF@box=\box27
+\WF@everypar=\toks16
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/enumitem\enumitem.sty"
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip44
+\enit@outerparindent=\dimen108
+\enit@toks=\toks17
+\enit@inbox=\box28
+\enit@count@id=\count91
+\enitdp@description=\count92
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip45
+\f@nch@O@elh=\skip46
+\f@nch@O@erh=\skip47
+\f@nch@O@olh=\skip48
+\f@nch@O@orh=\skip49
+\f@nch@O@elf=\skip50
+\f@nch@O@erf=\skip51
+\f@nch@O@olf=\skip52
+\f@nch@O@orf=\skip53
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2019/11/16 v2.17d AMS math features
+\@mathmargin=\skip54
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen109
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen110
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count93
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count94
+\leftroot@=\count95
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count96
+\DOTSCASE@=\count97
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen111
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
+\dotsspace@=\muskip10
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks19
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks20
+\eqnshift@=\dimen112
+\alignsep@=\dimen113
+\tagshift@=\dimen114
+\tagwidth@=\dimen115
+\totwidth@=\dimen116
+\lineht@=\dimen117
+\@envbody=\toks21
+\multlinegap=\skip55
+\multlinetaggap=\skip56
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2858.
+LaTeX Info: Redefining \] on input line 2859.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/index\index.sty"
+Package: index 2004/01/20 v4.2beta Improved index support (dmj)
+\@indexbox=\insert199
+\indexproofstyle=\toks23
+
+
+LaTeX Warning: Command \markboth  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \markright  has changed.
+               Check if current package is valid.
+
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count105
+\float@exts=\toks24
+\float@box=\box31
+\@float@everytoks=\toks25
+\@floatcapt=\box32
+)
+No file cse802hw1.aux.
+\openout1 = `cse802hw1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Info: Redefining \microtypecontext on input line 13.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+LaTeX Info: Redefining \showhyphens on input line 13.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+("C:\Program Files\MiKTeX 2.9\tex/latex/microtype\mt-cmr.cfg"
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count106
+\scratchdimen=\dimen118
+\scratchbox=\box33
+\nofMPsegments=\count107
+\nofMParguments=\count108
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count109
+\MPscratchDim=\dimen119
+\MPnumerator=\count110
+\makeMPintoPDFobject=\count111
+\everyMPtoPDFconversion=\toks27
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+[1
+
+{C:/Users/abhir/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 22--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--53
+
+ []
+
+[2]
+<q1pc_1.jpg, id=11, 1349.04pt x 1012.78375pt>
+File: q1pc_1.jpg Graphic file (type jpg)
+<use q1pc_1.jpg>
+Package pdftex.def Info: q1pc_1.jpg  used on input line 60.
+(pdftex.def)             Requested size: 404.71512pt x 303.83746pt.
+<q1pcs_1.jpg, id=12, 1494.58376pt x 1105.12875pt>
+File: q1pcs_1.jpg Graphic file (type jpg)
+<use q1pcs_1.jpg>
+Package pdftex.def Info: q1pcs_1.jpg  used on input line 61.
+(pdftex.def)             Requested size: 448.37859pt x 331.54118pt.
+
+Overfull \hbox (14.71512pt too wide) in paragraph at lines 60--62
+ [][] 
+ []
+
+
+Overfull \hbox (58.37859pt too wide) in paragraph at lines 60--62
+ [] 
+ []
+
+
+Overfull \vbox (44.37865pt too high) has occurred while \output is active []
+
+
+[3 <C:/Users/abhir/Documents/CSE_GRAD/CSE_802_Pattern_Recognition/hw1/q1pc_1.jp
+g> <C:/Users/abhir/Documents/CSE_GRAD/CSE_802_Pattern_Recognition/hw1/q1pcs_1.j
+pg>]
+<q1pc_2.jpg, id=16, 1175.39125pt x 934.49126pt>
+File: q1pc_2.jpg Graphic file (type jpg)
+<use q1pc_2.jpg>
+Package pdftex.def Info: q1pc_2.jpg  used on input line 66.
+(pdftex.def)             Requested size: 352.6201pt x 280.34953pt.
+<q1pcs_2.jpg, id=17, 1440.38126pt x 1068.99374pt>
+File: q1pcs_2.jpg Graphic file (type jpg)
+<use q1pcs_2.jpg>
+Package pdftex.def Info: q1pcs_2.jpg  used on input line 67.
+(pdftex.def)             Requested size: 432.1177pt x 320.70059pt.
+
+Overfull \hbox (42.1177pt too wide) in paragraph at lines 66--68
+ [] 
+ []
+
+
+Overfull \vbox (10.05013pt too high) has occurred while \output is active []
+
+
+[4 <C:/Users/abhir/Documents/CSE_GRAD/CSE_802_Pattern_Recognition/hw1/q1pc_2.jp
+g> <C:/Users/abhir/Documents/CSE_GRAD/CSE_802_Pattern_Recognition/hw1/q1pcs_2.j
+pg>]
+<q1pc_3.jpg, id=21, 1283.79625pt x 978.65625pt>
+File: q1pc_3.jpg Graphic file (type jpg)
+<use q1pc_3.jpg>
+Package pdftex.def Info: q1pc_3.jpg  used on input line 72.
+(pdftex.def)             Requested size: 385.14185pt x 293.59914pt.
+<q1pcs_3.jpg, id=22, 1289.81876pt x 939.51pt>
+File: q1pcs_3.jpg Graphic file (type jpg)
+<use q1pcs_3.jpg>
+Package pdftex.def Info: q1pcs_3.jpg  used on input line 73.
+(pdftex.def)             Requested size: 386.94861pt x 281.85518pt.
+ [5 <C:/Users/abhir/Documents/CSE_GRAD/CSE_802_Pattern_Recognition/hw1/q1pc_3.j
+pg> <C:/Users/abhir/Documents/CSE_GRAD/CSE_802_Pattern_Recognition/hw1/q1pcs_3.
+jpg>]
+<q1pc_4.jpg, id=26, 1311.90125pt x 990.70125pt>
+File: q1pc_4.jpg Graphic file (type jpg)
+<use q1pc_4.jpg>
+Package pdftex.def Info: q1pc_4.jpg  used on input line 78.
+(pdftex.def)             Requested size: 393.57341pt x 297.21266pt.
+<q1pcs_4.jpg, id=27, 1370.11874pt x 1022.82124pt>
+File: q1pcs_4.jpg Graphic file (type jpg)
+<use q1pcs_4.jpg>
+Package pdftex.def Info: q1pcs_4.jpg  used on input line 79.
+(pdftex.def)             Requested size: 411.03879pt x 306.84874pt.
+
+Overfull \hbox (3.57341pt too wide) in paragraph at lines 78--80
+ [][] 
+ []
+
+
+Overfull \hbox (21.03879pt too wide) in paragraph at lines 78--80
+ [] 
+ []
+
+
+Overfull \vbox (13.0614pt too high) has occurred while \output is active []
+
+
+[6 <C:/Users/abhir/Documents/CSE_GRAD/CSE_802_Pattern_Recognition/hw1/q1pc_4.jp
+g> <C:/Users/abhir/Documents/CSE_GRAD/CSE_802_Pattern_Recognition/hw1/q1pcs_4.j
+pg>]
+<q1pc_5.jpg, id=31, 1347.0325pt x 1144.275pt>
+File: q1pc_5.jpg Graphic file (type jpg)
+<use q1pc_5.jpg>
+Package pdftex.def Info: q1pc_5.jpg  used on input line 84.
+(pdftex.def)             Requested size: 404.11287pt x 343.28514pt.
+<q1pcs_5.jpg, id=32, 1496.59125pt x 1238.6275pt>
+File: q1pcs_5.jpg Graphic file (type jpg)
+<use q1pcs_5.jpg>
+Package pdftex.def Info: q1pcs_5.jpg  used on input line 85.
+(pdftex.def)             Requested size: 448.98085pt x 371.59113pt.
+
+Overfull \hbox (14.11287pt too wide) in paragraph at lines 84--86
+ [][] 
+ []
+
+
+Overfull \hbox (58.98085pt too wide) in paragraph at lines 84--86
+ [] 
+ []
+
+
+Overfull \vbox (123.87627pt too high) has occurred while \output is active []
+
+
+[7 <C:/Users/abhir/Documents/CSE_GRAD/CSE_802_Pattern_Recognition/hw1/q1pc_5.jp
+g> <C:/Users/abhir/Documents/CSE_GRAD/CSE_802_Pattern_Recognition/hw1/q1pcs_5.j
+pg>]
+<q1pc_6.jpg, id=37, 1439.3775pt x 1038.88126pt>
+File: q1pc_6.jpg Graphic file (type jpg)
+<use q1pc_6.jpg>
+Package pdftex.def Info: q1pc_6.jpg  used on input line 90.
+(pdftex.def)             Requested size: 431.81659pt x 311.66678pt.
+<q1pcs_6.jpg, id=38, 1495.5875pt x 1118.1775pt>
+File: q1pcs_6.jpg Graphic file (type jpg)
+<use q1pcs_6.jpg>
+Package pdftex.def Info: q1pcs_6.jpg  used on input line 91.
+(pdftex.def)             Requested size: 448.67972pt x 335.45584pt.
+
+Overfull \hbox (41.81659pt too wide) in paragraph at lines 90--92
+ [][] 
+ []
+
+
+Overfull \hbox (58.67972pt too wide) in paragraph at lines 90--92
+ [] 
+ []
+
+
+Overfull \vbox (56.12262pt too high) has occurred while \output is active []
+
+
+[8 <C:/Users/abhir/Documents/CSE_GRAD/CSE_802_Pattern_Recognition/hw1/q1pc_6.jp
+g> <C:/Users/abhir/Documents/CSE_GRAD/CSE_802_Pattern_Recognition/hw1/q1pcs_6.j
+pg>]
+<q1pc_7.jpg, id=42, 1209.51875pt x 941.5175pt>
+File: q1pc_7.jpg Graphic file (type jpg)
+<use q1pc_7.jpg>
+Package pdftex.def Info: q1pc_7.jpg  used on input line 96.
+(pdftex.def)             Requested size: 362.85843pt x 282.45743pt.
+<q1pcs_7.jpg, id=43, 1379.1525pt x 1115.16624pt>
+File: q1pcs_7.jpg Graphic file (type jpg)
+<use q1pcs_7.jpg>
+Package pdftex.def Info: q1pcs_7.jpg  used on input line 97.
+(pdftex.def)             Requested size: 413.74895pt x 334.55246pt.
+
+Overfull \hbox (23.74895pt too wide) in paragraph at lines 96--98
+ [] 
+ []
+
+
+Overfull \vbox (26.00989pt too high) has occurred while \output is active []
+
+
+[9 <C:/Users/abhir/Documents/CSE_GRAD/CSE_802_Pattern_Recognition/hw1/q1pc_7.jp
+g> <C:/Users/abhir/Documents/CSE_GRAD/CSE_802_Pattern_Recognition/hw1/q1pcs_7.j
+pg>]
+<q1pc_8.jpg, id=47, 984.67876pt x 842.14626pt>
+File: q1pc_8.jpg Graphic file (type jpg)
+<use q1pc_8.jpg>
+Package pdftex.def Info: q1pc_8.jpg  used on input line 102.
+(pdftex.def)             Requested size: 295.4059pt x 252.64583pt.
+<q1pcs_8.jpg, id=48, 1573.88pt x 1246.6575pt>
+File: q1pcs_8.jpg Graphic file (type jpg)
+<use q1pcs_8.jpg>
+Package pdftex.def Info: q1pcs_8.jpg  used on input line 103.
+(pdftex.def)             Requested size: 472.16765pt x 374.00014pt.
+
+Overfull \hbox (82.16765pt too wide) in paragraph at lines 102--104
+ [] 
+ []
+
+
+Overfull \vbox (35.64597pt too high) has occurred while \output is active []
+
+
+[10 <C:/Users/abhir/Documents/CSE_GRAD/CSE_802_Pattern_Recognition/hw1/q1pc_8.j
+pg> <C:/Users/abhir/Documents/CSE_GRAD/CSE_802_Pattern_Recognition/hw1/q1pcs_8.
+jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 106--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--110
+
+ []
+
+<q1pd_1.jpg, id=52, 1198.4775pt x 841.1425pt>
+File: q1pd_1.jpg Graphic file (type jpg)
+<use q1pd_1.jpg>
+Package pdftex.def Info: q1pd_1.jpg  used on input line 114.
+(pdftex.def)             Requested size: 359.54602pt x 252.3447pt.
+[11 <C:/Users/abhir/Documents/CSE_GRAD/CSE_802_Pattern_Recognition/hw1/q1pd_1.j
+pg>]
+<q1pd_2.jpg, id=56, 1410.26875pt x 1125.20375pt>
+File: q1pd_2.jpg Graphic file (type jpg)
+<use q1pd_2.jpg>
+Package pdftex.def Info: q1pd_2.jpg  used on input line 119.
+(pdftex.def)             Requested size: 423.0839pt x 337.56374pt.
+
+Overfull \hbox (33.0839pt too wide) in paragraph at lines 119--120
+ [][] 
+ []
+
+<q1pe.jpg, id=57, 1220.56pt x 893.3375pt>
+File: q1pe.jpg Graphic file (type jpg)
+<use q1pe.jpg>
+Package pdftex.def Info: q1pe.jpg  used on input line 127.
+(pdftex.def)             Requested size: 341.75447pt x 250.13278pt.
+<q1pe_2.jpg, id=58, 1280.785pt x 1005.7575pt>
+File: q1pe_2.jpg Graphic file (type jpg)
+<use q1pe_2.jpg>
+Package pdftex.def Info: q1pe_2.jpg  used on input line 131.
+(pdftex.def)             Requested size: 358.61736pt x 281.61018pt.
+[12 <C:/Users/abhir/Documents/CSE_GRAD/CSE_802_Pattern_Recognition/hw1/q1pd_2.j
+pg>] [13 <C:/Users/abhir/Documents/CSE_GRAD/CSE_802_Pattern_Recognition/hw1/q1p
+e.jpg> <C:/Users/abhir/Documents/CSE_GRAD/CSE_802_Pattern_Recognition/hw1/q1pe_
+2.jpg>] [14] [15] [16]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
+76.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 176.
+
+! LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.177   \item
+              The text in the entries may be of any length.
+? H
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.177   \item T
+               he text in the entries may be of any length.
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.177   \item T
+               he text in the entries may be of any length.
+? 
+
+! LaTeX Error: Command \end{itemize} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.178 \end{itemize}
+                   
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.178 \end{itemize}
+                   
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.178 \end{itemize}
+                   
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.178 \end{itemize}
+                   
+? 
+[17] (cse802hw1.aux) ) 
+Here is how much of TeX's memory you used:
+ 4049 strings out of 492482
+ 59563 string characters out of 3131025
+ 165184 words of memory out of 3000000
+ 8305 multiletter control sequences out of 15000+200000
+ 11358 words of font info for 65 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 33i,6n,45p,1016b,218s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi1
+2.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on cse802hw1.pdf (17 pages, 1563364 bytes).
+PDF statistics:
+ 105 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 10341 words of extra memory for PDF output out of 12000 (max. 10000000)
+
